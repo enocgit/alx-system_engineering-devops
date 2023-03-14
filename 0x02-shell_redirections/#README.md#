@@ -1,0 +1,7 @@
+0. echo "Hello, World": redirects message to standard output
+1. echo "\"(Ôo)": redirects message to standard output
+2. cat /etc/passwd: displays content of the file
+3. cat /etc/passwd /etc/hosts: displays contents of the two files concurrently
+4. cat /etc/passwd | tail: prints last 10 lines 
+5. cat /etc/passwd | head: prints first 10 lines
+6. head -n 3 iacta | tail -n 1: displays only the third line
