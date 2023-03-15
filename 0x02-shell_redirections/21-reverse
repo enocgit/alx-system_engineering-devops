@@ -1,2 +1,2 @@
 #!/bin/bash
-read word | rev 
+rev 
