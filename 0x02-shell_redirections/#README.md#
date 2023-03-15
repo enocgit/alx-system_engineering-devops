@@ -12,4 +12,4 @@
 13. cat
 16. grep root /etc/passwd -A 3: finds any line that has 'root' and three lines after it
 19. tr -s Ac Ze: Replaces Ac characters with Ze
-20. 
+20. tr -d Cc: Deletes the characters from the standard output
