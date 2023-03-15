@@ -1,2 +1,2 @@
 #!/bin/bash
-ehco "Hello world" | tr Ac Ze
+ehco "Hello world" | tr -s Ac Ze

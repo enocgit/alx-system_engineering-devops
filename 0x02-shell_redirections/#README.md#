@@ -10,4 +10,6 @@
 9. tail -n 1 iacta >> iacta
 10.
 13. cat
-16. grep root /etc/passwd -A 3
+16. grep root /etc/passwd -A 3: finds any line that has 'root' and three lines after it
+19. echo Hello | tr -s Ac Ze: Replaces Ac characters with Ze
+20. 
