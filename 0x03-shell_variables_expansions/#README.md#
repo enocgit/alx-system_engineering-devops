@@ -4,7 +4,8 @@ echo -e "hello $USER" : prints 'hello <current_user>'
 
 export PATH:$PATH:/action : adds /action to PATH varibale
 
-printenv: prints all environment variables
+printenv : prints all environment variables
 
-set -o posix: list local variables, environment variables and functions
+set : list local variables, environment variables and functions
 
+best=school : creates a new local variable 
