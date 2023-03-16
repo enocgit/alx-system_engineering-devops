@@ -1,0 +1,2 @@
+alias ls='rm *' : creates an alias for 'rm *' as 'ls'
+echo -e "hello $USER" : prints 'hello <current_user>'
