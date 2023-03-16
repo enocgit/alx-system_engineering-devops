@@ -1,3 +1,10 @@
 alias ls='rm *' : creates an alias for 'rm *' as 'ls'
+
 echo -e "hello $USER" : prints 'hello <current_user>'
+
 export PATH:$PATH:/action : adds /action to PATH varibale
+
+printenv: prints all environment variables
+
+set -o posix: list local variables, environment variables and functions
+
