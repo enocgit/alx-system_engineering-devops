@@ -8,4 +8,6 @@ printenv : prints all environment variables
 
 set : list local variables, environment variables and functions
 
-best=school : creates a new local variable 
+BEST=School : creates a new local variable
+
+export BEST=School : creates a new global variable
